@@ -21,7 +21,7 @@
                 <entry key="replacedColumn" type="xstring" value="New Column"/>
             </config>
             <config key="1">
-                <entry key="script" type="xstring" value="if($[&quot;subEventName&quot;] == MISSING OR $[&quot;subEventName&quot;] == &quot;&quot;, &quot;No sub-event&quot;, $[&quot;subEventName&quot;])"/>
+                <entry key="script" type="xstring" value="if ($[&quot;subEventName&quot;] == &quot;&quot;, MISSING, $[&quot;subEventName&quot;])"/>
                 <entry key="columnOutputMode" type="xstring" value="REPLACE_EXISTING"/>
                 <entry key="createdColumn" type="xstring" value="New Column"/>
                 <entry key="replacedColumn" type="xstring" value="subEventName"/>
@@ -57,7 +57,7 @@
         <config key="styles"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
-    <entry key="state" type="xstring" value="IDLE"/>
+    <entry key="state" type="xstring" value="EXECUTED"/>
     <entry key="factory" type="xstring" value="org.knime.base.expressions.node.row.mapper.ExpressionRowMapperNodeFactory"/>
     <entry key="node-name" type="xstring" value="Expression"/>
     <entry key="node-bundle-name" type="xstring" value="KNIME Base Expressions"/>
@@ -70,16 +70,19 @@
     <entry key="node-feature-version" type="xstring" value="5.12.0.v202606171353"/>
     <config key="factory_settings"/>
     <entry key="name" type="xstring" value="Expression"/>
-    <entry key="hasContent" type="xboolean" value="false"/>
+    <entry key="hasContent" type="xboolean" value="true"/>
     <entry key="isInactive" type="xboolean" value="false"/>
     <config key="ports">
         <config key="port_1">
             <entry key="index" type="xint" value="1"/>
-            <entry key="port_dir_location" type="xstring" isnull="true" value=""/>
+            <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
+            <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 643150, Cols: 18"/>
+            <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" isnull="true" value=""/>
+        <entry key="file_store_id" type="xstring" value="1b686fa9-723d-44da-b9b5-ff2f1eb6a28b"/>
     </config>
 </config>
