@@ -302,18 +302,34 @@
                 </config>
             </config>
         </config>
+        <config key="node_92">
+            <entry key="id" type="xint" value="92"/>
+            <entry key="node_settings_file" type="xstring" value="Duplicate Row Filter (#92)/settings.xml"/>
+            <entry key="node_is_meta" type="xboolean" value="false"/>
+            <entry key="node_type" type="xstring" value="NativeNode"/>
+            <entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.NodeUIInformation"/>
+            <config key="ui_settings">
+                <config key="extrainfo.node.bounds">
+                    <entry key="array-size" type="xint" value="4"/>
+                    <entry key="0" type="xint" value="-675"/>
+                    <entry key="1" type="xint" value="-251"/>
+                    <entry key="2" type="xint" value="-1"/>
+                    <entry key="3" type="xint" value="-1"/>
+                </config>
+            </config>
+        </config>
     </config>
     <config key="connections">
         <config key="connection_0">
             <entry key="sourceID" type="xint" value="-1"/>
-            <entry key="destID" type="xint" value="10"/>
-            <entry key="sourcePort" type="xint" value="0"/>
+            <entry key="destID" type="xint" value="84"/>
+            <entry key="sourcePort" type="xint" value="1"/>
             <entry key="destPort" type="xint" value="1"/>
         </config>
         <config key="connection_1">
             <entry key="sourceID" type="xint" value="-1"/>
-            <entry key="destID" type="xint" value="84"/>
-            <entry key="sourcePort" type="xint" value="1"/>
+            <entry key="destID" type="xint" value="92"/>
+            <entry key="sourcePort" type="xint" value="0"/>
             <entry key="destPort" type="xint" value="1"/>
         </config>
         <config key="connection_2">
@@ -429,6 +445,12 @@
             <entry key="destID" type="xint" value="-1"/>
             <entry key="sourcePort" type="xint" value="1"/>
             <entry key="destPort" type="xint" value="0"/>
+        </config>
+        <config key="connection_21">
+            <entry key="sourceID" type="xint" value="92"/>
+            <entry key="destID" type="xint" value="10"/>
+            <entry key="sourcePort" type="xint" value="1"/>
+            <entry key="destPort" type="xint" value="1"/>
         </config>
     </config>
     <config key="meta_in_ports">
