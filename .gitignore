@@ -1,0 +1,11 @@
+# KNIME workspace state (local to each machine)
+.metadata/
+*.knimeLock
+.knimeLock
+
+# KNIME bundled example workflows
+Example Workflows/
+
+# OS / Python
+.DS_Store
+__pycache__/

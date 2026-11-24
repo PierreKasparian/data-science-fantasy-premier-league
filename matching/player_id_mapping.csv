@@ -1,0 +1,513 @@
+wyscout_playerId,wyscout_name,wyscout_team,wyscout_role,wyscout_minutes,fpl_1718_id,fpl_code,fpl_1819_id,fpl_name,fpl_web_name,fpl_team,fpl_position,fpl_1718_points,fpl_minutes,match_method,match_score,minutes_check
+8653,H. Maguire,Leicester City,Defender,3420,198,95658,220,Harry Maguire,Maguire,Leicester City,DEF,117,3420,same team,4.0,ok
+8125,J. Cork,Burnley,Midfielder,3420,90,40145,82,Jack Cork,Cork,Burnley,MID,100,3420,same team,4.0,ok
+55979,M. Jørgensen,Huddersfield Town,Defender,3420,171,48760,195,Mathias Jorgensen,Zanka,Huddersfield Town,DEF,107,3420,same team,3.74,ok
+56038,J. Lössl,Huddersfield Town,Goalkeeper,3420,163,57513,191,Jonas Lössl,Lössl,Huddersfield Town,GKP,135,3420,same team,4.0,ok
+10131,J. Pickford,Everton,Goalkeeper,3420,135,111234,154,Jordan Pickford,Pickford,Everton,GKP,145,3420,same team,4.0,ok
+246866,A. Mawson,Swansea City,Defender,3420,357,149266,487,Alfie Mawson,Mawson,Swansea City,DEF,112,3420,same team,4.0,ok
+7847,Ł. Fabiański,Swansea City,Goalkeeper,3420,350,37096,400,Lukasz Fabianski,Fabianski,Swansea City,GKP,157,3420,same team,4.0,ok
+8726,A. Begović,AFC Bournemouth,Goalkeeper,3420,29,40349,24,Asmir Begovic,Begovic,AFC Bournemouth,GKP,112,3420,same team,4.0,ok
+61390,M. Ryan,Brighton & Hove Albion,Goalkeeper,3420,54,131897,47,Mathew Ryan,Ryan,Brighton & Hove Albion,GKP,146,3420,same team,4.0,ok
+9097,L. Dunk,Brighton & Hove Albion,Defender,3420,55,83299,48,Lewis Dunk,Dunk,Brighton & Hove Albion,DEF,97,3420,same team,4.0,ok
+119951,Ahmed Hegazy,West Bromwich Albion,Defender,3387,468,77777,,Ahmed El-Sayed Hegazi,Hegazi,West Bromwich Albion,DEF,114,3386,similar surname + minutes,0.83,ok
+134102,N. Aké,AFC Bournemouth,Defender,3353,38,126184,31,Nathan Aké,Aké,AFC Bournemouth,DEF,102,3352,same team,4.0,ok
+25553,Azpilicueta,Chelsea,Defender,3330,97,41328,113,César Azpilicueta,Azpilicueta,Chelsea,DEF,175,3330,same team,3.85,ok
+8358,B. Foster,West Bromwich Albion,Goalkeeper,3330,421,9089,445,Ben Foster,Foster,West Bromwich Albion,GKP,123,3330,same team,4.0,ok
+7910,David de Gea,Manchester United,Goalkeeper,3330,260,51940,282,David De Gea,De Gea,Manchester United,GKP,172,3330,same team,4.73,ok
+28292,A. Doucouré,Watford,Midfielder,3325,414,121599,390,Abdoulaye Doucouré,Doucouré,Watford,MID,136,3324,same team,4.0,ok
+8242,S. Duffy,Brighton & Hove Albion,Defender,3294,56,61933,49,Shane Duffy,Duffy,Brighton & Hove Albion,DEF,100,3292,same team,4.0,ok
+8313,P. Zabaleta,West Ham United,Defender,3289,447,20658,405,Pablo Zabaleta,Zabaleta,West Ham United,DEF,90,3289,same team,3.68,ok
+49876,G. Xhaka,Arsenal,Midfielder,3266,23,84450,17,Granit Xhaka,Xhaka,Arsenal,MID,109,3259,same team,4.0,ok
+15215,C. Schindler,Huddersfield Town,Defender,3266,164,85368,192,Christopher Schindler,Schindler,Huddersfield Town,DEF,102,3264,same team,4.0,ok
+12829,J. Vardy,Leicester City,Forward,3254,209,101668,234,Jamie Vardy,Vardy,Leicester City,FWD,183,3248,same team,4.0,ok
+8086,D. Stephens,Brighton & Hove Albion,Midfielder,3240,63,40845,56,Dale Stephens,Stephens,Brighton & Hove Albion,MID,87,3240,same team,4.0,ok
+25381,H. Lloris,Tottenham Hotspur,Goalkeeper,3240,375,37915,351,Hugo Lloris,Lloris,Tottenham Hotspur,GKP,144,3240,same team,4.0,ok
+54,C. Eriksen,Tottenham Hotspur,Midfielder,3226,387,80607,364,Christian Eriksen,Eriksen,Tottenham Hotspur,MID,199,3218,same team,3.77,ok
+48,J. Vertonghen,Tottenham Hotspur,Defender,3204,380,39194,355,Jan Vertonghen,Vertonghen,Tottenham Hotspur,DEF,138,3203,same team,4.0,ok
+71654,Ederson,Manchester City,Goalkeeper,3195,240,121160,260,Ederson Santana de Moraes,Ederson,Manchester City,GKP,158,3195,same team,6.0,ok
+8192,M. Olsson,Swansea City,Defender,3154,358,28654,,Martin Olsson,Olsson,Swansea City,DEF,89,3149,same team,4.0,ok
+3429,T. Courtois,Chelsea,Goalkeeper,3150,94,60772,111,Thibaut Courtois,Courtois,Chelsea,GKP,136,3150,same team,4.0,ok
+8094,J. Butland,Stoke City,Goalkeeper,3150,328,105666,,Jack Butland,Butland,Stoke City,GKP,125,3150,same team,4.0,ok
+77548,J. Allen,Stoke City,Midfielder,3142,337,40555,,Joe Allen,Allen,Stoke City,MID,109,3139,same team,4.0,ok
+7885,R. Bertrand,Southampton,Defender,3137,307,40146,330,Ryan Bertrand,Bertrand,Southampton,DEF,103,3135,same team,4.0,ok
+8471,A. Townsend,Crystal Palace,Midfielder,3125,131,60252,149,Andros Townsend,Townsend,Crystal Palace,MID,121,3120,same team,4.0,ok
+466,D. Pröpper,Brighton & Hove Albion,Midfielder,3120,490,66242,60,Davy Pröpper,Pröpper,Brighton & Hove Albion,MID,87,3118,same team,4.0,ok
+70122,N. Matić,Manchester United,Midfielder,3119,107,62398,296,Nemanja Matic,Matic,Manchester United,MID,91,3117,same team,4.0,ok
+12242,N. Pope,Burnley,Goalkeeper,3114,469,98747,68,Nick Pope,Pope,Burnley,GKP,152,3114,same team,4.0,ok
+38021,K. De Bruyne,Manchester City,Midfielder,3084,252,61366,273,Kevin De Bruyne,De Bruyne,Manchester City,MID,209,3073,same team,5.0,ok
+8717,H. Kane,Tottenham Hotspur,Forward,3083,394,78830,372,Harry Kane,Kane,Tottenham Hotspur,FWD,217,3074,same team,4.0,ok
+127537,L. Milivojević,Crystal Palace,Midfielder,3082,132,66975,150,Luka Milivojevic,Milivojevic,Crystal Palace,MID,144,3079,same team,4.0,ok
+8582,A. Cresswell,West Ham United,Defender,3072,443,55459,402,Aaron Cresswell,Cresswell,West Ham United,DEF,118,3069,same team,4.0,ok
+62389,A. Mooy,Huddersfield Town,Midfielder,3067,172,74471,199,Aaron Mooy,Mooy,Huddersfield Town,MID,113,3066,same team,4.0,ok
+167145,Bellerín,Arsenal,Defender,3051,7,98745,4,Héctor Bellerín,Bellerín,Arsenal,DEF,132,3050,same team,3.81,ok
+49872,X. Shaqiri,Stoke City,Midfielder,3051,342,68312,462,Xherdan Shaqiri,Shaqiri,Stoke City,MID,155,3039,same team,4.0,ok
+7882,P. Čech,Arsenal,Goalkeeper,3040,2,11334,1,Petr Cech,Cech,Arsenal,GKP,124,3039,same team,4.0,ok
+8336,K. Naughton,Swansea City,Defender,3031,352,49539,,Kyle Naughton,Naughton,Swansea City,DEF,101,3030,same team,4.0,ok
+9285,C. Daniels,AFC Bournemouth,Defender,3006,34,41320,28,Charlie Daniels,Daniels,AFC Bournemouth,DEF,94,3001,same team,4.0,ok
+31528,N. Kanté,Chelsea,Midfielder,2995,111,116594,126,N'Golo Kanté,Kanté,Chelsea,MID,101,2994,same team,4.0,ok
+13484,D. Alli,Tottenham Hotspur,Midfielder,2971,388,108823,365,Bamidele Alli,Alli,Tottenham Hotspur,MID,175,2957,same team,4.0,ok
+70086,N. Otamendi,Manchester City,Defender,2969,245,57410,264,Nicolás Otamendi,Otamendi,Manchester City,DEF,156,2966,same team,3.82,ok
+8480,K. Schmeichel,Leicester City,Goalkeeper,2966,189,17745,213,Kasper Schmeichel,Schmeichel,Leicester City,GKP,123,2965,same team,4.0,ok
+26150,R. Mahrez,Leicester City,Midfielder,2957,199,103025,223,Riyad Mahrez,Mahrez,Leicester City,MID,195,2948,same team,4.0,ok
+15526,P. Groß,Brighton & Hove Albion,Midfielder,2947,70,60307,59,Pascal Groß,Groß,Brighton & Hove Albion,MID,164,2928,same team,4.0,ok
+8833,J. Lascelles,Newcastle United,Defender,2928,290,101148,312,Jamaal Lascelles,Lascelles,Newcastle United,DEF,116,2927,same team,2.97,ok
+120353,Mohamed Salah,Liverpool,Forward,2922,234,118748,253,Mohamed Salah,Salah,Liverpool,MID,303,2905,same team,3.81,ok
+7899,Oriol Romeu,Southampton,Midfielder,2904,320,78056,339,Oriol Romeu Vidal,Oriol Romeu,Southampton,MID,68,2897,same team,5.0,ok
+265366,W. Ndidi,Leicester City,Midfielder,2899,206,203341,227,Wilfred Ndidi,Ndidi,Leicester City,MID,78,2896,same team,3.76,ok
+25854,K. Zouma,Stoke City,Defender,2887,99,103192,526,Kurt Zouma,Zouma,Stoke City,DEF,87,2887,same team,3.77,ok
+105339,Fernandinho,Manchester City,Midfielder,2885,250,27789,272,Fernando Luiz Rosa,Fernandinho,Manchester City,MID,120,2880,same team,6.0,ok
+21100,A. Ogbonna,West Ham United,Defender,2880,444,40669,403,Angelo Ogbonna,Ogbonna,West Ham United,DEF,77,2880,same team,3.8,ok
+7905,R. Lukaku,Manchester United,Forward,2869,285,66749,306,Romelu Lukaku,Lukaku,Manchester United,FWD,162,2866,same team,3.79,ok
+8032,Marcos Alonso,Chelsea,Defender,2860,100,82263,115,Marcos Alonso,Alonso,Chelsea,DEF,165,2855,same team,3.76,ok
+25571,J. Ayew,Swansea City,Forward,2858,373,80146,505,Jordan Ayew,Jordan Ayew,Swansea City,FWD,108,2850,same team,4.0,ok
+252365,D. Yedlin,Newcastle United,Defender,2842,288,151119,310,DeAndre Yedlin,Yedlin,Newcastle United,DEF,88,2842,same team,4.0,ok
+93,J. Guðmunds­son,Burnley,Midfielder,2838,84,60586,76,Johann Berg Gudmundsson,Gudmundsson,Burnley,MID,117,2831,same team,2.98,ok
+7853,K. Gibbs,West Bromwich Albion,Defender,2831,8,42427,,Kieran Gibbs,Gibbs,West Bromwich Albion,DEF,86,2826,same team,4.0,ok
+210044,E. Dier,Tottenham Hotspur,Midfielder,2827,384,93264,361,Eric Dier,Dier,Tottenham Hotspur,MID,85,2822,same team,4.0,ok
+377071,Richarlison,Watford,Forward,2825,501,212319,393,Richarlison de Andrade,Richarlison,Watford,MID,125,2817,same team,5.0,ok
+8488,W. Morgan,Leicester City,Defender,2818,191,15033,215,Wes Morgan,Morgan,Leicester City,DEF,61,2817,same team,4.0,ok
+383,D. Tadić,Southampton,Midfielder,2814,318,62399,,Dusan Tadic,Tadic,Southampton,MID,122,2791,same team,4.0,ok
+9227,M. Ritchie,Newcastle United,Midfielder,2809,295,56983,317,Matt Ritchie,Ritchie,Newcastle United,MID,116,2802,same team,4.0,ok
+37725,C. Kouyaté,West Ham United,Midfielder,2803,451,55037,412,Cheikhou Kouyaté,Kouyaté,West Ham United,MID,86,2798,same team,4.0,ok
+70389,Cédric Soares,Southampton,Defender,2797,310,58822,332,Cédric Soares,Cédric,Southampton,DEF,85,2794,same team,3.65,ok
+8958,J. Rodriguez,West Bromwich Albion,Forward,2793,437,44683,,Jay Rodriguez,Rodriguez,West Bromwich Albion,FWD,109,2807,same team,4.0,ok
+9433,J. Tarkowski,Burnley,Defender,2790,79,17761,72,James Tarkowski,Tarkowski,Burnley,DEF,101,2790,same team,4.0,ok
+8277,K. Walker,Manchester City,Defender,2787,379,58621,265,Kyle Walker,Walker,Manchester City,DEF,138,2784,same team,4.0,ok
+15808,Roberto Firmino,Liverpool,Forward,2778,235,92217,257,Roberto Firmino,Firmino,Liverpool,FWD,181,2760,same team,2.6,ok
+3577,S. Rondón,West Bromwich Albion,Forward,2772,435,57134,493,Salomón Rondón,Rondón,West Bromwich Albion,FWD,103,2765,same team,3.68,ok
+9277,S. Cook,AFC Bournemouth,Defender,2766,33,56917,27,Steve Cook,Steve Cook,AFC Bournemouth,DEF,83,2764,same team,4.0,ok
+25706,I. Gueye,Everton,Midfielder,2757,155,80801,168,Idrissa Gueye,Gueye,Everton,MID,87,2749,same team,3.84,ok
+7938,A. Valencia,Manchester United,Defender,2743,267,20695,288,Antonio Valencia,Valencia,Manchester United,DEF,146,2741,same team,3.7,ok
+107,E. Pieters,Stoke City,Defender,2720,332,39487,,Erik Pieters,Pieters,Stoke City,DEF,71,2717,same team,4.0,ok
+9279,S. Francis,AFC Bournemouth,Defender,2709,32,15149,26,Simon Francis,Francis,AFC Bournemouth,DEF,56,2708,same team,4.0,ok
+21164,F. Fernández,Swansea City,Defender,2677,354,57145,516,Federico Fernández,Fernández,Swansea City,DEF,85,2676,same team,4.0,ok
+8285,J. Livermore,West Bromwich Albion,Midfielder,2676,426,49944,,Jake Livermore,Livermore,West Bromwich Albion,MID,89,2671,same team,4.0,ok
+8944,B. Mee,Burnley,Defender,2610,77,51927,70,Ben Mee,Mee,Burnley,DEF,90,2610,same team,4.0,ok
+15054,M. Diouf,Stoke City,Forward,2601,348,61858,,Mame Biram Diouf,Diouf,Stoke City,FWD,99,2592,same team,5.0,ok
+11066,R. Sterling,Manchester City,Forward,2592,247,103955,270,Raheem Sterling,Sterling,Manchester City,MID,229,2584,same team,3.75,ok
+8976,T. Carroll,Swansea City,Midfielder,2568,367,93464,,Tom Carroll,Carroll,Swansea City,MID,85,2562,same team,4.0,ok
+7919,M. Keane,Everton,Defender,2561,146,106611,162,Michael Keane,Keane,Everton,DEF,81,2559,same team,4.0,ok
+3361,A. Sánchez,Arsenal,Forward,2553,14,37265,295,Alexis Sánchez,Sánchez,Manchester United,MID,152,2546,same team,3.61,ok
+8422,W. Zaha,Crystal Palace,Midfielder,2550,126,82403,151,Wilfried Zaha,Zaha,Crystal Palace,MID,136,2549,same team,4.0,ok
+8013,M. Albrighton,Leicester City,Midfielder,2543,200,51938,224,Marc Albrighton,Albrighton,Leicester City,MID,107,2533,same team,4.0,ok
+7922,C. Smalling,Manchester United,Defender,2535,263,55909,284,Chris Smalling,Smalling,Manchester United,DEF,123,2535,same team,4.0,ok
+257762,D. Sánchez,Tottenham Hotspur,Defender,2533,520,173904,359,Davinson Sánchez,Sánchez,Tottenham Hotspur,DEF,107,2532,same team,3.86,ok
+268776,W. Hoedt,Southampton,Defender,2520,525,167075,336,Wesley Hoedt,Hoedt,Southampton,DEF,74,2520,same team,4.0,ok
+8360,C. Dawson,West Bromwich Albion,Defender,2511,424,60232,,Craig Dawson,Dawson,West Bromwich Albion,DEF,87,2510,same team,4.0,ok
+230883,Ayoze Pérez,Newcastle United,Forward,2499,302,168580,326,Ayoze Pérez,Pérez,Newcastle United,FWD,124,2486,same team,3.69,ok
+8433,S. Ward,Burnley,Defender,2462,78,40616,71,Stephen Ward,Ward,Burnley,DEF,102,2460,same team,4.0,ok
+9637,J. King,AFC Bournemouth,Forward,2455,51,78007,45,Joshua King,King,AFC Bournemouth,FWD,110,2450,same team,4.0,ok
+9419,T. Ince,Huddersfield Town,Midfielder,2454,182,86176,203,Tom Ince,Ince,Huddersfield Town,MID,82,2450,same team,4.0,ok
+7939,A. Young,Manchester United,Defender,2447,277,18892,293,Ashley Young,Young,Manchester United,MID,98,2444,same team,4.0,ok
+8317,David Silva,Manchester City,Midfielder,2438,248,20664,271,David Silva,David Silva,Manchester City,MID,169,2431,same team,3.61,ok
+8623,J. McArthur,Crystal Palace,Midfielder,2437,127,50471,147,James McArthur,McArthur,Crystal Palace,MID,101,2425,same team,4.0,ok
+25707,E. Hazard,Chelsea,Forward,2432,104,42786,122,Eden Hazard,Hazard,Chelsea,MID,173,2417,same team,4.0,ok
+8425,W. Hennessey,Crystal Palace,Goalkeeper,2430,115,20066,135,Wayne Hennessey,Hennessey,Crystal Palace,GKP,99,2430,same team,4.0,ok
+25950,A. Knockaert,Brighton & Hove Albion,Midfielder,2424,62,83543,55,Anthony Knockaert,Knockaert,Brighton & Hove Albion,MID,88,2415,same team,4.0,ok
+245364,L. Sané,Manchester City,Midfielder,2423,255,182156,275,Leroy Sané,Sané,Manchester City,MID,179,2415,same team,4.0,ok
+8897,J. Hogg,Huddersfield Town,Midfielder,2408,174,79619,201,Jonathan Hogg,Hogg,Huddersfield Town,MID,53,2396,same team,4.0,ok
+8561,M. Noble,West Ham United,Midfielder,2404,450,18073,411,Mark Noble,Noble,West Ham United,MID,84,2400,same team,4.0,ok
+116,G. Wijnaldum,Liverpool,Midfielder,2388,232,41733,252,Georginio Wijnaldum,Wijnaldum,Liverpool,MID,85,2381,same team,4.0,ok
+8554,J. Tomkins,Crystal Palace,Defender,2388,117,49413,138,James Tomkins,Tomkins,Crystal Palace,DEF,99,2386,same team,4.0,ok
+92899,J. Holebas,Watford,Defender,2382,401,40868,378,José Holebas,Holebas,Watford,DEF,72,2381,same team,4.0,ok
+7988,Y. Cabaye,Crystal Palace,Midfielder,2382,129,27341,,Yohan Cabaye,Cabaye,Crystal Palace,MID,73,2374,same team,4.0,ok
+8731,R. Shawcross,Stoke City,Defender,2372,330,37869,,Ryan Shawcross,Shawcross,Stoke City,DEF,67,2371,same team,4.0,ok
+8980,J. Hendrick,Burnley,Midfielder,2345,86,83314,78,Jeff Hendrick,Hendrick,Burnley,MID,85,2326,same team,4.0,ok
+14748,A. Rüdiger,Chelsea,Defender,2336,103,102380,118,Antonio Rüdiger,Rüdiger,Chelsea,DEF,115,2336,same team,4.0,ok
+68085,C. Kabasele,Watford,Defender,2332,403,85624,380,Christian Kabasele,Kabasele,Watford,DEF,68,2329,same team,4.0,ok
+136441,B. Davies,Tottenham Hotspur,Defender,2323,381,115556,356,Ben Davies,Davies,Tottenham Hotspur,DEF,143,2323,same team,4.0,ok
+14703,M. Arnautović,West Ham United,Forward,2321,340,41464,417,Marko Arnautovic,Arnautovic,West Ham United,MID,144,2309,same team,4.0,ok
+149019,D. Simpson,Leicester City,Defender,2312,193,40725,217,Danny Simpson,Simpson,Leicester City,DEF,55,2306,same team,4.0,ok
+14911,Son Heung-Min,Tottenham Hotspur,Forward,2311,390,85971,367,Heung-Min Son,Son,Tottenham Hotspur,MID,178,2292,same team,5.0,ok
+3350,Fàbregas,Chelsea,Midfielder,2310,105,17878,123,Cesc Fàbregas,Fàbregas,Chelsea,MID,89,2300,same team,2.68,ok
+5281,A. Nyom,West Bromwich Albion,Defender,2308,422,67527,,Allan-Roméo Nyom,Nyom,West Bromwich Albion,DEF,70,2306,same team,5.0,ok
+8643,M. Lowton,Burnley,Defender,2294,76,68983,69,Matthew Lowton,Lowton,Burnley,DEF,89,2295,same team,4.0,ok
+7944,W. Rooney,Everton,Forward,2282,161,13017,,Wayne Rooney,Rooney,Everton,FWD,113,2265,same team,4.0,ok
+20612,S. Mustafi,Arsenal,Defender,2273,12,69140,7,Shkodran Mustafi,Mustafi,Arsenal,DEF,109,2272,same team,4.0,ok
+7914,J. Evans,West Bromwich Albion,Defender,2271,423,37642,222,Jonny Evans,Evans,West Bromwich Albion,DEF,78,2269,same team,4.0,ok
+7967,J. Shelvey,Newcastle United,Midfielder,2267,296,50232,318,Jonjo Shelvey,Shelvey,Newcastle United,MID,73,2264,same team,4.0,ok
+77558,G. Sigurðsson,Everton,Midfielder,2261,359,55422,172,Gylfi Sigurdsson,Sigurdsson,Everton,MID,96,2257,same team,3.89,ok
+15198,E. Choupo-Moting,Stoke City,Forward,2258,497,42564,,Eric Maxim Choupo-Moting,Choupo-Moting,Stoke City,MID,107,2241,same team,5.91,ok
+370,V. van Dijk,Liverpool,Defender,2253,311,97032,246,Virgil van Dijk,van Dijk,Liverpool,DEF,78,2253,same team,5.0,ok
+3560,Nacho Monreal,Arsenal,Defender,2243,10,38411,5,Nacho Monreal,Monreal,Arsenal,DEF,130,2241,same team,3.71,ok
+302518,L. Cook,AFC Bournemouth,Midfielder,2238,46,155408,39,Lewis Cook,Lewis Cook,AFC Bournemouth,MID,58,2234,same team,4.0,ok
+26495,G. Bong,Brighton & Hove Albion,Defender,2238,59,42748,51,Gaëtan Bong,Bong,Brighton & Hove Albion,DEF,63,2237,same team,3.79,ok
+38031,C. Benteke,Crystal Palace,Forward,2235,134,54861,152,Christian Benteke,Benteke,Crystal Palace,FWD,84,2234,same team,3.85,ok
+7855,L. Koscielny,Arsenal,Defender,2227,4,51507,3,Laurent Koscielny,Koscielny,Arsenal,DEF,100,2225,same team,4.0,ok
+7932,D. Fletcher,Stoke City,Midfielder,2223,346,14295,,Darren Fletcher,Fletcher,Stoke City,MID,67,2217,same team,4.0,ok
+25413,A. Lacazette,Arsenal,Forward,2211,28,59966,22,Alexandre Lacazette,Lacazette,Arsenal,FWD,138,2197,same team,4.0,ok
+25747,S. Mané,Liverpool,Forward,2210,230,110979,251,Sadio Mané,Mané,Liverpool,MID,147,2189,same team,4.0,ok
+8889,A. Mariappa,Watford,Defender,2209,405,20145,382,Adrian Mariappa,Mariappa,Watford,DEF,58,2206,same team,4.0,ok
+8416,G. Murray,Brighton & Hove Albion,Forward,2201,71,20529,62,Glenn Murray,Murray,Brighton & Hove Albion,FWD,111,2184,same team,4.0,ok
+454,P. van Aanholt,Crystal Palace,Defender,2185,124,74230,142,Patrick van Aanholt,van Aanholt,Crystal Palace,DEF,95,2182,same team,5.0,ok
+7964,J. Henderson,Liverpool,Midfielder,2171,225,56979,249,Jordan Henderson,Henderson,Liverpool,MID,75,2169,same team,3.84,ok
+3319,M. Özil,Arsenal,Midfielder,2162,16,37605,13,Mesut Özil,Özil,Arsenal,MID,112,2161,same team,4.0,ok
+9123,A. Barnes,Burnley,Forward,2155,93,44699,85,Ashley Barnes,Barnes,Burnley,FWD,92,2150,same team,4.0,ok
+14869,S. Kolašinac,Arsenal,Defender,2153,13,111457,8,Sead Kolasinac,Kolasinac,Arsenal,DEF,108,2146,same team,4.0,ok
+7936,P. Pogba,Manchester United,Midfielder,2149,282,74208,302,Paul Pogba,Pogba,Manchester United,MID,138,2145,same team,4.0,ok
+173,R. van La Parra,Huddersfield Town,Midfielder,2145,173,51344,200,Rajiv van La Parra,van La Parra,Huddersfield Town,MID,74,2131,same team,6.0,ok
+8266,Gomes,Watford,Goalkeeper,2129,397,18656,373,Heurelho Gomes,Gomes,Watford,GKP,64,2128,same team,3.76,ok
+8143,M. Schneiderlin,Everton,Midfielder,2127,154,42774,167,Morgan Schneiderlin,Schneiderlin,Everton,MID,52,2124,same team,4.0,ok
+28291,T. Bakayoko,Chelsea,Midfielder,2123,463,169102,129,Tiemoué Bakayoko,Bakayoko,Chelsea,MID,77,2121,same team,4.0,ok
+8625,V. Moses,Chelsea,Midfielder,2118,102,49013,117,Victor Moses,Moses,Chelsea,DEF,131,2109,same team,4.0,ok
+25393,D. Lovren,Liverpool,Defender,2104,215,38454,239,Dejan Lovren,Lovren,Liverpool,DEF,110,2124,same team,4.0,ok
+3523,F. Lejeune,Newcastle United,Defender,2104,294,77359,314,Florian Lejeune,Lejeune,Newcastle United,DEF,66,2103,same team,4.0,ok
+9414,M. Phillips,West Bromwich Albion,Midfielder,2096,432,50229,,Matt Phillips,Phillips,West Bromwich Albion,MID,81,2087,same team,4.0,ok
+18550,E. Can,Liverpool,Midfielder,2094,227,112338,,Emre Can,Can,Liverpool,MID,92,2089,same team,4.0,ok
+7887,G. Cahill,Chelsea,Defender,2083,98,19419,114,Gary Cahill,Cahill,Chelsea,DEF,74,2082,same team,4.0,ok
+135103,A. Christensen,Chelsea,Defender,2072,470,135363,119,Andreas Christensen,Christensen,Chelsea,DEF,79,2067,same team,4.0,ok
+3324,Álvaro Morata,Chelsea,Forward,2068,472,88482,134,Álvaro Morata,Morata,Chelsea,FWD,122,2055,same team,3.67,ok
+8460,A. Smith,AFC Bournemouth,Defender,2068,35,54469,29,Adam Smith,Adam Smith,AFC Bournemouth,DEF,56,2067,same team,4.0,ok
+8245,P. Jagielka,Everton,Defender,2065,140,7645,158,Phil Jagielka,Jagielka,Everton,DEF,60,2063,same team,4.0,ok
+703,M. Yoshida,Southampton,Defender,2051,308,80447,331,Maya Yoshida,Yoshida,Southampton,DEF,76,2049,same team,4.0,ok
+41174,M. Lanzini,West Ham United,Midfielder,2045,453,86934,414,Manuel Lanzini,Lanzini,West Ham United,MID,106,2039,same team,4.0,ok
+10252,S. Clucas,Swansea City,Midfielder,2043,519,74033,,Sam Clucas,Clucas,Swansea City,MID,75,2039,same team,4.0,ok
+8620,M. Diamé,Newcastle United,Midfielder,2040,298,28147,319,Mohamed Diamé,Diamé,Newcastle United,MID,70,2034,same team,4.0,ok
+3278,Bruno Saltor,Brighton & Hove Albion,Defender,2017,58,11352,50,Bruno Saltor Grau,Bruno,Brighton & Hove Albion,DEF,84,2014,same team,5.0,ok
+70092,S. Defour,Burnley,Midfielder,2008,85,39847,77,Steven Defour,Defour,Burnley,MID,62,1998,same team,4.0,ok
+62224,R. Fraser,AFC Bournemouth,Midfielder,2006,47,90105,40,Ryan Fraser,Fraser,AFC Bournemouth,MID,97,2003,same team,4.0,ok
+9739,J. Ibe,AFC Bournemouth,Midfielder,1998,45,103912,38,Jordon Ibe,Ibe,AFC Bournemouth,MID,85,1988,same team,4.0,ok
+14870,J. Matip,Liverpool,Defender,1994,219,60914,243,Joel Matip,Matip,Liverpool,DEF,81,1995,same team,3.67,ok
+11669,C. Wilson,AFC Bournemouth,Forward,1991,48,75115,43,Callum Wilson,Wilson,AFC Bournemouth,FWD,102,1981,same team,4.0,ok
+91381,J. Izquierdo,Brighton & Hove Albion,Forward,1988,517,167473,61,José Heriberto Izquierdo Mena,Izquierdo,Brighton & Hove Albion,MID,101,1976,same team,6.0,ok
+8136,J. Stephens,Southampton,Defender,1980,313,88900,333,Jack Stephens,Stephens,Southampton,DEF,58,1980,same team,4.0,ok
+7918,P. Jones,Manchester United,Defender,1975,264,76359,285,Phil Jones,Jones,Manchester United,DEF,116,1973,same team,4.0,ok
+8325,S. Agüero,Manchester City,Forward,1968,257,37572,280,Sergio Agüero,Agüero,Manchester City,FWD,169,1960,same team,3.57,ok
+12536,D. Gayle,Newcastle United,Forward,1959,301,104547,325,Dwight Gayle,Gayle,Newcastle United,FWD,94,1946,same team,4.0,ok
+284,M. van der Hoorn,Swansea City,Defender,1952,356,97615,,Mike van der Hoorn,van der Hoorn,Swansea City,DEF,74,1944,same team,6.0,ok
+8116,N. Redmond,Southampton,Midfielder,1944,324,83283,343,Nathan Redmond,Redmond,Southampton,MID,72,1938,same team,4.0,ok
+222220,A. Robertson,Liverpool,Defender,1943,475,122798,247,Andrew Robertson,Robertson,Liverpool,DEF,111,1940,same team,4.0,ok
+7989,D. Gosling,AFC Bournemouth,Midfielder,1942,43,40387,37,Dan Gosling,Gosling,AFC Bournemouth,MID,59,1941,same team,4.0,ok
+7906,Juan Mata,Manchester United,Midfielder,1932,274,43670,297,Juan Mata,Mata,Manchester United,MID,100,1919,same team,3.56,ok
+8314,G. Barry,West Bromwich Albion,Midfielder,1925,151,1632,,Gareth Barry,Barry,West Bromwich Albion,MID,56,1921,same team,4.0,ok
+8370,C. Brunt,West Bromwich Albion,Midfielder,1923,434,19151,,Chris Brunt,Brunt,West Bromwich Albion,MID,81,1917,same team,4.0,ok
+14853,C. Fuchs,Leicester City,Defender,1920,192,37402,216,Christian Fuchs,Fuchs,Leicester City,DEF,57,1917,same team,4.0,ok
+8284,A. Lennon,Burnley,Midfielder,1919,153,17349,83,Aaron Lennon,Lennon,Burnley,MID,65,1906,same team,4.0,ok
+8945,K. Trippier,Tottenham Hotspur,Defender,1915,382,77794,357,Kieran Trippier,Trippier,Tottenham Hotspur,DEF,113,1912,same team,4.0,ok
+8239,L. Baines,Everton,Defender,1910,138,12745,156,Leighton Baines,Baines,Everton,DEF,82,1909,same team,4.0,ok
+11078,T. Smith,Huddersfield Town,Defender,1906,166,104545,194,Tommy Smith,Smith,Huddersfield Town,DEF,50,1902,same team,2.9,ok
+7929,T. Cleverley,Watford,Midfielder,1905,408,43250,388,Tom Cleverley,Cleverley,Watford,MID,58,1900,same team,4.0,ok
+353236,T. Davies,Everton,Midfielder,1903,156,173807,169,Tom Davies,Davies,Everton,MID,66,1892,same team,4.0,ok
+257899,J. Gomez,Liverpool,Defender,1900,218,171287,242,Joseph Gomez,Gomez,Liverpool,DEF,86,1901,same team,2.86,ok
+105333,Willian,Chelsea,Midfielder,1886,106,47431,124,Willian Borges Da Silva,Willian,Chelsea,MID,130,1874,same team,6.0,ok
+11152,M. Dembélé,Tottenham Hotspur,Midfielder,1886,385,39104,362,Mousa Dembélé,Dembélé,Tottenham Hotspur,MID,52,1875,same team,2.7,ok
+235555,R. Loftus-Cheek,Crystal Palace,Midfielder,1875,108,126187,132,Ruben Loftus-Cheek,Loftus-Cheek,Crystal Palace,MID,77,1871,same team,5.0,ok
+293687,D. Calvert-Lewin,Everton,Forward,1874,159,177815,175,Dominic Calvert-Lewin,Calvert-Lewin,Everton,FWD,88,1871,same team,5.0,ok
+26499,A. Masuaku,West Ham United,Defender,1872,446,105717,410,Arthur Masuaku,Masuaku,West Ham United,DEF,68,1867,same team,4.0,ok
+61962,Sung-Yeung Ki,Swansea City,Midfielder,1869,363,76542,324,Sung-yueng Ki,Ki Sung-yueng,Swansea City,MID,73,1865,same team,3.92,ok
+214654,S. Mounié,Huddersfield Town,Forward,1858,188,169141,211,Steve Mounie,Mounie,Huddersfield Town,FWD,92,1849,same team,4.0,ok
+350976,B. Chilwell,Leicester City,Defender,1853,196,172850,219,Benjamin Chilwell,Chilwell,Leicester City,DEF,65,1848,same team,2.83,ok
+8351,A. Surman,AFC Bournemouth,Midfielder,1852,41,15237,35,Andrew Surman,Surman,AFC Bournemouth,MID,82,1851,same team,4.0,ok
+7870,A. Ramsey,Arsenal,Midfielder,1848,18,41792,14,Aaron Ramsey,Ramsey,Arsenal,MID,130,1844,same team,4.0,ok
+247248,S. March,Brighton & Hove Albion,Midfielder,1841,66,109345,58,Solomon March,March,Brighton & Hove Albion,MID,74,1838,same team,2.75,ok
+25572,A. Ayew,Swansea City,Forward,1841,449,45124,,André Ayew,André Ayew,Swansea City,MID,77,1834,same team,3.8,ok
+8903,T. Deeney,Watford,Forward,1841,417,41725,396,Troy Deeney,Deeney,Watford,FWD,73,1836,same team,4.0,ok
+230020,A. Iwobi,Arsenal,Midfielder,1840,21,153133,15,Alex Iwobi,Iwobi,Arsenal,MID,89,1827,same team,4.0,ok
+77546,A. Williams,Everton,Defender,1832,143,19159,159,Ashley Williams,Williams,Everton,DEF,56,1830,same team,4.0,ok
+340,Cuco Martina,Everton,Defender,1830,464,56192,163,Cuco Martina,Martina,Everton,DEF,55,1830,same team,3.62,ok
+160,D. Janmaat,Watford,Defender,1819,404,52940,381,Daryl Janmaat,Janmaat,Watford,DEF,59,1818,same team,4.0,ok
+7934,J. Lingard,Manchester United,Midfielder,1819,279,109322,300,Jesse Lingard,Lingard,Manchester United,MID,128,1807,same team,4.0,ok
+38377,L. Depoitre,Huddersfield Town,Forward,1807,187,147303,210,Laurent Depoitre,Depoitre,Huddersfield Town,FWD,94,1807,same team,4.0,ok
+397178,M. Rashford,Manchester United,Forward,1805,284,176297,305,Marcus Rashford,Rashford,Manchester United,FWD,104,1799,same team,4.0,ok
+61941,F. Forster,Southampton,Goalkeeper,1800,306,40383,329,Fraser Forster,Forster,Southampton,GKP,73,1800,same team,4.0,ok
+70215,C. Atsu,Newcastle United,Midfielder,1783,300,104953,320,Christian Atsu,Atsu,Newcastle United,MID,78,1776,same team,3.8,ok
+8319,J. Milner,Liverpool,Midfielder,1763,222,15157,254,James Milner,Milner,Liverpool,DEF,77,1759,same team,4.0,ok
+3436,Javi Manquillo,Newcastle United,Defender,1759,477,109528,315,Javier Manquillo,Manquillo,Newcastle United,DEF,49,1757,same team,3.82,ok
+8501,J. Schlupp,Crystal Palace,Defender,1748,123,86417,141,Jeffrey Schlupp,Schlupp,Crystal Palace,DEF,50,1742,same team,4.0,ok
+8464,F. Delph,Manchester City,Midfielder,1746,246,41823,269,Fabian Delph,Delph,Manchester City,MID,55,1740,same team,4.0,ok
+8004,C. Clark,Newcastle United,Defender,1745,289,58845,311,Ciaran Clark,Clark,Newcastle United,DEF,64,1745,same team,4.0,ok
+105338,H. Mkhitaryan,Manchester United,Midfielder,1725,281,57249,18,Henrikh Mkhitaryan,Mkhitaryan,Arsenal,MID,107,1712,same team,4.0,ok
+7868,A. Oxlade-Chamberlain,Liverpool,Midfielder,1723,19,81880,248,Alex Oxlade-Chamberlain,Chamberlain,Liverpool,MID,94,1718,same team,5.0,ok
+29640,M. Lemina,Southampton,Midfielder,1722,500,151086,344,Mario Lemina,Lemina,Southampton,MID,58,1715,same team,4.0,ok
+343951,T. Abraham,Swansea City,Forward,1717,374,173879,496,Tammy Abraham,Abraham,Swansea City,FWD,86,1715,same team,4.0,ok
+8144,J. Ward-Prowse,Southampton,Midfielder,1716,317,101178,338,James Ward-Prowse,Ward-Prowse,Southampton,MID,84,1708,same team,5.0,ok
+3327,Joselu,Newcastle United,Forward,1716,488,61316,327,Jose Luis Mato Sanmartín,Joselu,Newcastle United,FWD,69,1703,same team,6.79,ok
+3351,Kiko Femenía,Watford,Defender,1712,407,54484,383,Francisco Femenía Far,Kiko Femenía,Watford,DEF,65,1709,same team,6.0,ok
+8514,S. Mignolet,Liverpool,Goalkeeper,1710,213,66797,237,Simon Mignolet,Mignolet,Liverpool,GKP,67,1710,same team,4.0,ok
+8301,J. Hart,West Ham United,Goalkeeper,1710,479,15749,490,Joe Hart,Hart,West Ham United,GKP,59,1710,same team,4.0,ok
+15175,L. Karius,Liverpool,Goalkeeper,1710,214,104542,238,Loris Karius,Karius,Liverpool,GKP,88,1710,same team,4.0,ok
+3582,Adrián,West Ham United,Goalkeeper,1710,438,60706,399,Adrián San Miguel del Castillo,Adrián,West Ham United,GKP,72,1710,same team,7.0,ok
+283142,D. Gray,Leicester City,Midfielder,1688,203,172632,225,Demarai Gray,Gray,Leicester City,MID,80,1683,same team,4.0,ok
+282550,F. Hadergjonaj,Huddersfield Town,Defender,1673,521,172246,197,Florent Hadergjonaj,Hadergjonaj,Huddersfield Town,DEF,51,1670,same team,4.0,ok
+135114,P. Højbjerg,Southampton,Midfielder,1671,321,132015,340,Pierre-Emile Højbjerg,Højbjerg,Southampton,MID,39,1666,same team,5.0,ok
+340386,Gabriel Jesus,Manchester City,Forward,1670,259,205651,281,Gabriel Fernando de Jesus,Jesus,Manchester City,FWD,126,1660,same team,6.0,ok
+25537,G. Krychowiak,West Bromwich Albion,Midfielder,1646,533,73494,,Grzegorz Krychowiak,Krychowiak,West Bromwich Albion,MID,58,1634,same team,4.0,ok
+9206,C. Wood,Burnley,Forward,1631,518,60689,87,Chris Wood,Wood,Burnley,FWD,104,1621,same team,4.0,ok
+8580,A. McCarthy,Southampton,Goalkeeper,1620,305,58376,328,Alex McCarthy,McCarthy,Southampton,GKP,52,1620,same team,4.0,ok
+20593,R. Pereyra,Watford,Midfielder,1619,415,61566,391,Roberto Pereyra,Pereyra,Watford,MID,81,1610,same team,3.71,ok
+8221,J. Ward,Crystal Palace,Defender,1616,119,55494,441,Joel Ward,Ward,Crystal Palace,DEF,41,1613,same team,4.0,ok
+7978,P. Dummett,Newcastle United,Defender,1603,291,106618,313,Paul Dummett,Dummett,Newcastle United,DEF,52,1602,same team,4.0,ok
+25430,M. Sakho,Crystal Palace,Defender,1598,221,40784,143,Mamadou Sakho,Sakho,Crystal Palace,DEF,81,1597,same team,4.0,ok
+397168,T. Fosu-Mensah,Crystal Palace,Defender,1594,269,201084,511,Timothy Fosu-Mensah,Fosu-Mensah,Crystal Palace,DEF,39,1592,same team,5.0,ok
+14796,C. Löwe,Huddersfield Town,Defender,1592,165,54284,193,Chris Löwe,Löwe,Huddersfield Town,DEF,60,1585,same team,4.0,ok
+286825,J. Kenny,Everton,Defender,1588,145,153673,161,Jonjoe Kenny,Kenny,Everton,DEF,50,1589,same team,4.0,ok
+134513,A. Martial,Manchester United,Forward,1581,280,148225,301,Anthony Martial,Martial,Manchester United,MID,125,1572,same team,4.0,ok
+8384,S. Long,Southampton,Forward,1577,325,20452,347,Shane Long,Long,Southampton,FWD,53,1570,same team,4.0,ok
+346101,T. Alexander-Arnold,Liverpool,Defender,1576,223,169187,245,Trent Alexander-Arnold,Alexander-Arnold,Liverpool,DEF,83,1573,same team,5.0,ok
+14688,S. Prödl,Watford,Defender,1569,400,41945,377,Sebastian Prödl,Prödl,Watford,DEF,42,1566,same team,4.0,ok
+20620,Pedro Obiang,West Ham United,Midfielder,1565,452,59779,413,Pedro Obiang,Obiang,West Ham United,MID,54,1562,same team,3.71,ok
+8747,P. Crouch,Stoke City,Forward,1554,347,3773,590,Peter Crouch,Crouch,Stoke City,FWD,73,1551,same team,4.0,ok
+7941,J. Hernández,West Ham United,Forward,1544,487,43020,419,Javier Hernández Balcázar,Chicharito,West Ham United,FWD,93,1537,same team,5.0,ok
+25798,E. Capoue,Watford,Midfielder,1542,409,38439,389,Etienne Capoue,Capoue,Watford,MID,48,1537,same team,4.0,ok
+70156,A. Carrillo,Watford,Midfielder,1539,527,100412,,André Carrillo,Carrillo,Watford,MID,64,1529,same team,3.7,ok
+58978,G. Cameron,Stoke City,Defender,1525,331,50089,,Geoff Cameron,Cameron,Stoke City,DEF,33,1522,same team,4.0,ok
+3360,Pedro,Chelsea,Forward,1524,109,49579,125,Pedro Rodríguez Ledesma,Pedro,Chelsea,MID,81,1511,same team,4.85,ok
+61988,S. Davis,Southampton,Midfielder,1520,316,17339,337,Steven Davis,Davis,Southampton,MID,71,1515,same team,4.0,ok
+265673,Bernardo Silva,Manchester City,Midfielder,1520,256,165809,276,Bernardo Mota Veiga de Carvalho e Silva,Bernardo Silva,Manchester City,MID,112,1514,same team,8.0,ok
+14808,İ. Gündoğan,Manchester City,Midfielder,1506,253,59859,274,Ilkay Gündogan,Gündogan,Manchester City,MID,82,1504,same team,4.0,ok
+10663,A. Gray,Watford,Forward,1498,92,73426,395,Andre Gray,Gray,Watford,FWD,79,1486,same team,4.0,ok
+8553,W. Reid,West Ham United,Defender,1454,442,48717,401,Winston Reid,Reid,West Ham United,DEF,42,1452,same team,4.0,ok
+74,R. Klavan,Liverpool,Defender,1448,220,33871,244,Ragnar Klavan,Klavan,Liverpool,DEF,78,1449,same team,4.0,ok
+7974,R. Elliot,Newcastle United,Goalkeeper,1440,286,19838,307,Robert Elliot,Elliot,Newcastle United,GKP,57,1440,same team,2.87,ok
+10108,K. Long,Burnley,Defender,1440,80,41674,73,Kevin Long,Long,Burnley,DEF,57,1440,same team,4.0,ok
+8186,S. Dann,Crystal Palace,Defender,1435,118,19188,139,Scott Dann,Dann,Crystal Palace,DEF,32,1434,same team,4.0,ok
+25785,S. Aurier,Tottenham Hotspur,Defender,1429,532,80226,360,Serge Aurier,Aurier,Tottenham Hotspur,DEF,77,1427,same team,4.0,ok
+379209,D. Rice,West Ham United,Defender,1428,510,204480,406,Declan Rice,Rice,West Ham United,DEF,41,1421,same team,4.0,ok
+3928,Vicente Iborra,Leicester City,Midfielder,1415,208,54513,228,Vicente Iborra,Iborra,Leicester City,MID,58,1411,same team,3.68,ok
+8530,J. McClean,West Bromwich Albion,Midfielder,1397,430,63370,,James McClean,McClean,West Bromwich Albion,MID,45,1391,same team,4.0,ok
+8307,V. Kompany,Manchester City,Defender,1397,244,17476,263,Vincent Kompany,Kompany,Manchester City,DEF,60,1394,same team,4.0,ok
+262,L. Fer,Swansea City,Midfielder,1396,365,49277,,Leroy Fer,Fer,Swansea City,MID,41,1394,same team,4.0,ok
+25804,M. Sissoko,Tottenham Hotspur,Midfielder,1393,393,45268,369,Moussa Sissoko,Sissoko,Tottenham Hotspur,MID,58,1385,same team,4.0,ok
+134294,I. Hayden,Newcastle United,Midfielder,1372,496,153127,323,Isaac Hayden,Hayden,Newcastle United,MID,41,1365,same team,4.0,ok
+8677,M. Antonio,West Ham United,Forward,1354,454,57531,415,Michail Antonio,Antonio,West Ham United,MID,62,1350,same team,4.0,ok
+339789,Mikel Merino,Newcastle United,Midfielder,1344,495,195384,322,Mikel Merino,Merino,Newcastle United,MID,49,1337,same team,3.8,ok
+70083,Danilo,Manchester City,Defender,1342,483,100180,266,Danilo Luiz da Silva,Danilo,Manchester City,DEF,100,1340,same team,6.0,ok
+16122,E. Kachunga,Huddersfield Town,Forward,1338,181,87428,212,Elias Kachunga,Kachunga,Huddersfield Town,MID,46,1327,same team,4.0,ok
+11294,S. Arfield,Burnley,Midfielder,1334,82,39158,,Scott Arfield,Arfield,Burnley,MID,56,1330,same team,4.0,ok
+14763,S. Okazaki,Leicester City,Forward,1329,211,78412,235,Shinji Okazaki,Okazaki,Leicester City,FWD,76,1314,same team,4.0,ok
+65254,K. Wimmer,Stoke City,Defender,1323,383,97485,,Kevin Wimmer,Wimmer,Stoke City,DEF,19,1321,same team,4.0,ok
+20855,E. Schelotto,Brighton & Hove Albion,Defender,1317,538,74375,53,Ezequiel Schelotto,Schelotto,Brighton & Hove Albion,DEF,20,1313,same team,3.84,ok
+77552,N. Dyer,Swansea City,Midfielder,1314,366,21083,,Nathan Dyer,Dyer,Swansea City,MID,41,1300,same team,4.0,ok
+49971,M. Bauer,Stoke City,Defender,1309,594,102366,,Moritz Bauer,Bauer,Stoke City,DEF,41,1307,same team,4.0,ok
+9380,J. Stones,Manchester City,Defender,1305,242,97299,262,John Stones,Stones,Manchester City,DEF,70,1301,same team,4.0,ok
+8959,J. Stanislas,AFC Bournemouth,Midfielder,1296,42,56872,36,Junior Stanislas,Stanislas,AFC Bournemouth,MID,75,1285,same team,4.0,ok
+92864,O. Karnezis,Watford,Goalkeeper,1291,536,48332,,Orestis Karnezis,Karnezis,Watford,GKP,47,1291,same team,4.0,ok
+71703,V. Lindelöf,Manchester United,Defender,1281,273,184667,292,Victor Lindelöf,Lindelöf,Manchester United,DEF,47,1284,same team,3.79,ok
+9623,R. Brady,Burnley,Midfielder,1279,87,90517,79,Robbie Brady,Brady,Burnley,MID,56,1277,same team,4.0,ok
+16436,C. Quaner,Huddersfield Town,Forward,1274,186,84112,209,Collin Quaner,Quaner,Huddersfield Town,FWD,44,1268,same team,4.0,ok
+4908,Alberto Moreno,Liverpool,Defender,1264,216,100059,240,Alberto Moreno,Moreno,Liverpool,DEF,52,1264,same team,3.82,ok
+8498,A. King,Swansea City,Midfielder,1251,201,13152,,Andy King,King,Swansea City,MID,51,1247,same team,4.0,ok
+3413,Ander Herrera,Manchester United,Midfielder,1244,278,59846,299,Ander Herrera,Herrera,Manchester United,MID,44,1257,same team,3.79,ok
+134,B. Martins Indi,Stoke City,Defender,1242,513,85352,,Bruno Martins Indi,Martins Indi,Stoke City,DEF,20,1242,same team,5.0,ok
+332605,Ramadan Sobhi,Stoke City,Midfielder,1233,345,205102,207,Ramadan Sobhi,Sobhi,Stoke City,MID,51,1227,same team,4.0,ok
+7879,T. Walcott,Everton,Forward,1216,15,20467,164,Theo Walcott,Walcott,Everton,MID,62,1214,same team,4.0,ok
+215983,S. Boufal,Southampton,Midfielder,1212,322,128198,341,Sofiane Boufal,Boufal,Southampton,MID,55,1206,same team,4.0,ok
+7958,M. Kelly,Crystal Palace,Defender,1196,120,58786,140,Martin Kelly,Kelly,Crystal Palace,DEF,34,1193,same team,4.0,ok
+7873,J. Wilshere,Arsenal,Midfielder,1187,24,54102,447,Jack Wilshere,Wilshere,Arsenal,MID,46,1185,same team,4.0,ok
+7945,D. Welbeck,Arsenal,Forward,1186,26,50175,21,Danny Welbeck,Welbeck,Arsenal,FWD,70,1178,same team,2.53,ok
+355937,M. Holgate,Everton,Defender,1182,144,194164,160,Mason Holgate,Holgate,Everton,DEF,37,1183,same team,4.0,ok
+64966,M. Suttner,Brighton & Hove Albion,Defender,1178,461,43808,52,Markus Suttner,Suttner,Brighton & Hove Albion,DEF,38,1178,same team,4.0,ok
+36,T. Alderweireld,Tottenham Hotspur,Defender,1176,377,55605,353,Toby Alderweireld,Alderweireld,Tottenham Hotspur,DEF,43,1177,same team,4.0,ok
+293686,J. Murphy,Newcastle United,Midfielder,1143,478,114243,321,Jacob Murphy,Murphy,Newcastle United,MID,51,1137,same team,4.0,ok
+207164,B. N'Diaye,Stoke City,Midfielder,1140,619,163463,,Papa Alioune Ndiaye,Badou Ndiaye,Stoke City,MID,41,1138,same team,2.97,ok
+8516,P. Bardsley,Burnley,Defender,1126,334,17997,75,Phil Bardsley,Bardsley,Burnley,DEF,33,1125,same team,4.0,ok
+15823,D. Williams,Huddersfield Town,Midfielder,1117,184,80755,204,Danny Williams,Williams,Huddersfield Town,MID,28,1115,same team,2.83,ok
+9280,S. Malone,Huddersfield Town,Defender,1115,462,79733,196,Scott Malone,Malone,Huddersfield Town,DEF,41,1110,same team,4.0,ok
+3802,Philippe Coutinho,Liverpool,Forward,1115,226,84583,,Philippe Coutinho,Coutinho,Liverpool,MID,103,1109,same team,3.81,ok
+8925,A. Westwood,Burnley,Midfielder,1105,88,60551,80,Ashley Westwood,Westwood,Burnley,MID,35,1105,same team,4.0,ok
+22889,D. Zappacosta,Chelsea,Defender,1093,543,105700,120,Davide Zappacosta,Zappacosta,Chelsea,DEF,58,1087,same team,4.0,ok
+8296,J. Defoe,AFC Bournemouth,Forward,1085,52,7958,46,Jermain Defoe,Defoe,AFC Bournemouth,FWD,60,1075,same team,4.0,ok
+145692,O. Niasse,Everton,Forward,1081,548,113688,176,Oumar Niasse,Niasse,Everton,FWD,83,1076,same team,3.63,ok
+104851,M. Dúbravka,Newcastle United,Goalkeeper,1080,621,67089,309,Martin Dubravka,Dubravka,Newcastle United,GKP,53,1080,same team,4.0,ok
+20857,M. Gabbiadini,Southampton,Forward,1072,327,61548,349,Manolo Gabbiadini,Gabbiadini,Southampton,FWD,66,1067,same team,4.0,ok
+25867,P. Aubameyang,Arsenal,Forward,1058,616,54694,23,Pierre-Emerick Aubameyang,Aubameyang,Arsenal,FWD,87,1056,same team,5.0,ok
+8005,J. Collins,West Ham United,Defender,1050,441,8380,,James Collins,Collins,West Ham United,DEF,36,1049,same team,3.76,ok
+132,T. Kongolo,Huddersfield Town,Defender,1048,591,109434,198,Terence Kongolo,Kongolo,Huddersfield Town,DEF,30,1047,same team,4.0,ok
+8240,S. Coleman,Everton,Defender,1036,139,59949,157,Seamus Coleman,Coleman,Everton,DEF,39,1035,same team,4.0,ok
+8953,C. Austin,Southampton,Forward,1030,326,78356,348,Charlie Austin,Austin,Southampton,FWD,72,1024,same team,4.0,ok
+254898,Kenedy,Newcastle United,Midfielder,1030,110,167767,458,Robert Kenedy Nunes do Nascimento,Kenedy,Newcastle United,MID,51,1023,same team,7.0,ok
+70965,João Mário,West Ham United,Midfielder,1024,608,109788,,João Mário Naval Costa Eduardo,João Mário,West Ham United,MID,46,1021,same team,6.95,ok
+8290,A. Pritchard,Huddersfield Town,Midfielder,1003,593,106450,206,Alex Pritchard,Pritchard,Huddersfield Town,MID,40,997,same team,4.0,ok
+256998,E. Bailly,Manchester United,Defender,999,271,197365,291,Eric Bailly,Bailly,Manchester United,DEF,55,1000,same team,3.71,ok
+8981,W. Hughes,Watford,Midfielder,998,416,108413,392,Will Hughes,Hughes,Watford,MID,53,987,same team,4.0,ok
+192748,M. James,Leicester City,Midfielder,996,474,61604,229,Matty James,James,Leicester City,MID,26,991,same team,4.0,ok
+189821,M. Zeegelaar,Watford,Defender,995,537,66247,384,Marvin Zeegelaar,Zeegelaar,Watford,DEF,28,993,same team,4.0,ok
+32636,C. Tosun,Everton,Forward,991,592,66838,177,Cenk Tosun,Tosun,Everton,FWD,55,984,same team,4.0,ok
+8391,J. Speroni,Crystal Palace,Goalkeeper,990,116,11554,136,Julian Speroni,Speroni,Crystal Palace,GKP,36,990,same team,4.0,ok
+9293,M. Pugh,AFC Bournemouth,Midfielder,986,40,20037,34,Marc Pugh,Pugh,AFC Bournemouth,MID,32,974,same team,4.0,ok
+26010,O. Giroud,Chelsea,Forward,985,25,44346,133,Olivier Giroud,Giroud,Chelsea,FWD,77,981,same team,4.0,ok
+9127,S. Vokes,Burnley,Forward,981,91,40399,84,Sam Vokes,Vokes,Burnley,FWD,63,977,same team,4.0,ok
+9283,H. Arter,AFC Bournemouth,Midfielder,962,39,48615,33,Harry Arter,Arter,AFC Bournemouth,MID,27,959,same team,4.0,ok
+9164,C. Taylor,Burnley,Defender,949,81,103914,74,Charlie Taylor,Taylor,Burnley,DEF,23,949,same team,4.0,ok
+279717,A. Maitland-Niles,Arsenal,Midfielder,908,546,154043,20,Ainsley Maitland-Niles,Maitland-Niles,Arsenal,MID,25,908,same team,5.0,ok
+86308,C. Yacob,West Bromwich Albion,Midfielder,900,429,55829,,Claudio Yacob,Yacob,West Bromwich Albion,MID,23,898,same team,3.81,ok
+8826,K. Darlow,Newcastle United,Goalkeeper,900,287,59735,308,Karl Darlow,Darlow,Newcastle United,GKP,33,900,same team,4.0,ok
+120339,Mohamed Elneny,Arsenal,Midfielder,870,22,153256,16,Mohamed Elneny,Elneny,Arsenal,MID,22,865,same team,3.67,ok
+171283,C. Chambers,Arsenal,Defender,869,480,101184,9,Calum Chambers,Chambers,Arsenal,DEF,23,864,same team,4.0,ok
+9194,Y. Bolasie,Everton,Midfielder,856,147,55452,165,Yannick Bolasie,Bolasie,Everton,MID,35,848,same team,3.86,ok
+265318,E. Fernandes,West Ham United,Midfielder,847,456,163526,416,Edimilson Fernandes,Fernandes,West Ham United,MID,29,840,same team,4.0,ok
+3657,T. Hemed,Brighton & Hove Albion,Forward,845,72,38499,63,Tomer Hemed,Hemed,Brighton & Hove Albion,FWD,43,842,same team,4.0,ok
+7892,David Luiz,Chelsea,Defender,839,101,41270,116,David Luiz Moreira Marinho,David Luiz,Chelsea,DEF,32,838,same team,6.0,ok
+61967,V. Wanyama,Tottenham Hotspur,Midfielder,838,389,54756,366,Victor Wanyama,Wanyama,Tottenham Hotspur,MID,32,837,same team,4.0,ok
+20441,E. Lamela,Tottenham Hotspur,Midfielder,832,386,62974,363,Erik Lamela,Lamela,Tottenham Hotspur,MID,55,826,same team,4.0,ok
+285508,K. Iheanacho,Leicester City,Forward,823,258,173515,236,Kelechi Iheanacho,Iheanacho,Leicester City,FWD,54,818,same team,3.81,ok
+8686,H. Robson-Kanu,West Bromwich Albion,Forward,821,436,49440,,Hal Robson-Kanu,Robson-Kanu,West Bromwich Albion,FWD,32,816,same team,5.0,ok
+370224,R. Holding,Arsenal,Defender,820,11,156074,6,Rob Holding,Holding,Arsenal,DEF,27,819,same team,4.0,ok
+134502,A. Laporte,Manchester City,Defender,807,612,146941,268,Aymeric Laporte,Laporte,Manchester City,DEF,35,806,same team,4.0,ok
+8292,D. Rose,Tottenham Hotspur,Defender,802,378,38290,354,Danny Rose,Rose,Tottenham Hotspur,DEF,24,800,same team,4.0,ok
+21160,M. Britos,Watford,Defender,800,402,52153,379,Miguel Britos,Britos,Watford,DEF,22,795,same team,3.65,ok
+8135,L. Shaw,Manchester United,Defender,788,265,106760,286,Luke Shaw,Shaw,Manchester United,DEF,48,787,same team,4.0,ok
+240070,H. Winks,Tottenham Hotspur,Midfielder,770,391,157668,368,Harry Winks,Winks,Tottenham Hotspur,MID,31,768,same team,4.0,ok
+49859,A. Dragović,Leicester City,Defender,766,541,60598,,Aleksandar Dragovic,Dragovic,Leicester City,DEF,28,766,same team,4.0,ok
+303357,P. Billing,Huddersfield Town,Midfielder,762,175,168991,202,Philip Billing,Billing,Huddersfield Town,MID,22,755,same team,4.0,ok
+70403,Adrien Silva,Leicester City,Midfielder,762,589,46483,231,Adrien Sebastian Perruchet Silva,Silva,Leicester City,MID,23,760,same team,6.0,ok
+4365,Roque Mesa,Swansea City,Midfielder,756,370,106899,,Roque Mesa,Mesa,Swansea City,MID,18,753,same team,3.71,ok
+7970,A. Carroll,West Ham United,Forward,746,457,40142,418,Andy Carroll,Carroll,West Ham United,FWD,36,742,same team,4.0,ok
+61961,B. Kayal,Brighton & Hove Albion,Midfielder,740,64,38490,57,Beram Kayal,Kayal,Brighton & Hove Albion,MID,25,735,same team,4.0,ok
+258162,Renato Sanches,Swansea City,Midfielder,705,535,171319,,Renato Sanches,Sanches,Swansea City,MID,20,699,same team,3.72,ok
+471,W. Bony,Swansea City,Forward,704,542,57001,,Wilfried Bony,Bony,Swansea City,FWD,33,701,same team,3.74,ok
+8126,José Fonte,West Ham United,Defender,690,440,38580,,Jose Fonte,Fonte,West Ham United,DEF,34,688,same team,3.56,ok
+37726,C. Mbemba,Newcastle United,Defender,673,494,149736,316,Chancel Mbemba,Mbemba,Newcastle United,DEF,20,670,same team,3.78,ok
+101652,M. Rojo,Manchester United,Defender,642,266,58893,287,Marcos Rojo,Rojo,Manchester United,DEF,23,639,same team,3.56,ok
+8249,M. Fellaini,Manchester United,Midfielder,632,275,41184,298,Marouane Fellaini,Fellaini,Manchester United,MID,47,611,same team,3.79,ok
+397174,S. McTominay,Manchester United,Midfielder,630,283,195851,303,Scott McTominay,McTominay,Manchester United,MID,21,629,same team,4.0,ok
+486252,A. Wan-Bissaka,Crystal Palace,Defender,628,579,214590,145,Aaron Wan-Bissaka,Wan-Bissaka,Crystal Palace,MID,15,627,same team,5.0,ok
+70085,E. Mangala,Manchester City,Defender,618,502,57112,,Eliaquim Mangala,Mangala,Everton,DEF,22,617,same team,4.0,ok
+179,L. Narsingh,Swansea City,Midfielder,614,369,57586,,Luciano Narsingh,Narsingh,Swansea City,MID,30,614,same team,4.0,ok
+3326,Jesé Rodríguez,Stoke City,Forward,606,512,93127,,Jesé Rodríguez Ruiz,Jesé,Stoke City,MID,31,609,same team,5.0,ok
+277002,F. Diabaté,Leicester City,Forward,584,601,210207,232,Fousseni Diabaté,Diabaté,Leicester City,FWD,21,579,same team,4.0,ok
+286831,D. Solanke,Liverpool,Forward,582,239,154566,259,Dominic Solanke,Solanke,Liverpool,FWD,38,581,same team,4.0,ok
+245813,L. Mousset,AFC Bournemouth,Forward,580,50,178304,44,Lys Mousset,Mousset,AFC Bournemouth,FWD,36,581,same team,4.0,ok
+284476,N. Vlašić,Everton,Midfielder,575,539,180151,173,Nikola Vlasic,Vlasic,Everton,MID,18,572,same team,4.0,ok
+8142,J. Puncheon,Crystal Palace,Midfielder,571,125,19197,146,Jason Puncheon,Puncheon,Crystal Palace,MID,11,574,same team,4.0,ok
+7957,G. Johnson,Stoke City,Defender,549,335,9047,,Glen Johnson,Johnson,Stoke City,DEF,5,546,same team,4.0,ok
+7907,D. Sturridge,Liverpool,Forward,545,236,40755,472,Daniel Sturridge,Sturridge,West Bromwich Albion,FWD,32,541,same team,4.0,ok
+434159,S. Field,West Bromwich Albion,Midfielder,539,433,195864,,Sam Field,Field,West Bromwich Albion,MID,23,534,same team,4.0,ok
+134351,B. Afobe,AFC Bournemouth,Forward,533,49,88498,,Benik Afobe,Afobe,AFC Bournemouth,FWD,24,534,same team,4.0,ok
+241564,O. Zinchenko,Manchester City,Midfielder,533,551,206325,279,Oleksandr Zinchenko,Zinchenko,Manchester City,MID,16,530,same team,4.0,ok
+8495,D. Drinkwater,Chelsea,Midfielder,524,202,61603,128,Daniel Drinkwater,Drinkwater,Chelsea,MID,24,520,same team,2.85,ok
+9403,C. Cathcart,Watford,Defender,497,399,41338,376,Craig Cathcart,Cathcart,Watford,DEF,14,495,same team,4.0,ok
+217078,D. Amartey,Leicester City,Midfielder,488,204,155569,226,Daniel Amartey,Amartey,Leicester City,MID,13,486,same team,4.0,ok
+9532,S. Berahino,Stoke City,Forward,484,349,91972,,Saido Berahino,Berahino,Stoke City,FWD,20,483,same team,4.0,ok
+447812,T. Edwards,Stoke City,Defender,483,556,209212,,Thomas Edwards,Edwards,Stoke City,DEF,6,481,same team,4.0,ok
+25865,B. Sako,Crystal Palace,Midfielder,471,130,44343,148,Bakary Sako,Sako,Crystal Palace,MID,36,466,same team,4.0,ok
+8627,B. Watson,Watford,Midfielder,458,486,16045,,Ben Watson,Watson,Watford,MID,12,455,same team,4.0,ok
+8362,G. McAuley,West Bromwich Albion,Defender,457,425,19272,,Gareth McAuley,McAuley,West Bromwich Albion,DEF,8,454,same team,4.0,ok
+86239,G. Carrillo,Southampton,Forward,451,607,98914,350,Guido Carrillo,Carrillo,Southampton,FWD,15,449,same team,3.78,ok
+7888,N. Chalobah,Watford,Midfielder,447,112,89085,387,Nathaniel Chalobah,Chalobah,Watford,MID,13,447,same team,4.0,ok
+20505,S. Okaka,Watford,Forward,446,418,20046,397,Stefano Okaka,Okaka,Watford,FWD,24,442,same team,3.81,ok
+21095,M. Darmian,Manchester United,Defender,443,268,40002,289,Matteo Darmian,Darmian,Manchester United,DEF,27,443,same team,4.0,ok
+25885,M. Wagué,Watford,Defender,439,197,103127,,Molla Wagué,Wagué,Watford,DEF,19,438,same team,4.0,ok
+240559,J. Riedewald,Crystal Palace,Defender,437,482,173954,144,Jairo Riedewald,Riedewald,Crystal Palace,DEF,23,435,same team,4.0,ok
+3348,Deulofeu,Watford,Forward,431,609,94924,394,Gerard Deulofeu,Deulofeu,Watford,MID,25,433,same team,3.81,ok
+240032,J. Bednarek,Southampton,Defender,428,315,171771,335,Jan Bednarek,Bednarek,Southampton,DEF,22,427,same team,4.0,ok
+77557,W. Routledge,Swansea City,Midfielder,421,360,11829,,Wayne Routledge,Routledge,Swansea City,MID,17,420,same team,4.0,ok
+7961,C. Adam,Stoke City,Midfielder,406,338,20208,,Charlie Adam,Adam,Stoke City,MID,10,405,same team,4.0,ok
+25662,D. Ospina,Arsenal,Goalkeeper,380,1,48844,,David Ospina,Ospina,Arsenal,GKP,19,380,same team,3.75,ok
+419784,H. Choudhury,Leicester City,Midfielder,376,571,197469,230,Hamza Choudhury,Choudhury,Leicester City,MID,13,375,same team,4.0,ok
+119630,I. Slimani,Leicester City,Forward,372,212,149828,,Islam Slimani,Slimani,Newcastle United,FWD,25,369,same team,4.0,ok
+7856,P. Mertesacker,Arsenal,Defender,365,5,17127,,Per Mertesacker,Mertesacker,Arsenal,DEF,16,364,same team,4.0,ok
+26136,B. Mendy,Manchester City,Defender,361,484,102826,267,Benjamin Mendy,Mendy,Manchester City,DEF,20,360,same team,4.0,ok
+38,D. Blind,Manchester United,Defender,360,270,58877,290,Daley Blind,Blind,Manchester United,DEF,28,360,same team,4.0,ok
+55224,A. Sørloth,Crystal Palace,Forward,360,620,143877,153,Alexander Sørloth,Sørloth,Crystal Palace,FWD,8,360,same team,4.0,ok
+346071,O. Burke,West Bromwich Albion,Midfielder,356,524,197937,,Oliver Burke,Burke,West Bromwich Albion,MID,23,356,same team,4.0,ok
+38093,M. Batshuayi,Chelsea,Forward,352,113,94245,592,Michy Batshuayi,Batshuayi,Chelsea,FWD,25,351,same team,3.83,ok
+92947,K. Stafylidis,Stoke City,Defender,335,599,93001,,Konstantinos Stafylidis,Stafylidis,Stoke City,DEF,6,334,same team,4.0,ok
+255935,I. Brown,Brighton & Hove Albion,Forward,307,481,112516,,Isaiah Brown,Brown,Brighton & Hove Albion,MID,16,302,same team,4.0,ok
+77502,T. Heaton,Burnley,Goalkeeper,306,74,21205,67,Tom Heaton,Heaton,Burnley,GKP,8,305,same team,4.0,ok
+77550,L. Britton,Swansea City,Midfielder,306,361,15114,,Leon Britton,Britton,Swansea City,MID,10,301,same team,4.0,ok
+26610,D. Sakho,West Ham United,Forward,292,458,73889,,Diafra Sakho,Sakho,West Ham United,FWD,24,294,same team,4.0,ok
+4255,L. Ulloa,Brighton & Hove Albion,Forward,280,210,54316,,Leonardo Ulloa,Ulloa,Brighton & Hove Albion,FWD,20,279,same team,3.85,ok
+40787,Emerson,Chelsea,Defender,279,614,109533,121,Emerson Palmieri dos Santos,Emerson,Chelsea,DEF,14,278,same team,6.0,ok
+5911,Sandro,Everton,Forward,275,160,108438,470,Sandro Ramírez,Sandro,Everton,FWD,10,275,same team,3.76,ok
+8066,B. Hamer,Leicester City,Goalkeeper,274,190,38038,190,Ben Hamer,Hamer,Leicester City,GKP,9,274,same team,4.0,ok
+8935,L. Grant,Stoke City,Goalkeeper,270,329,6744,520,Lee Grant,Grant,Stoke City,GKP,5,270,same team,4.0,ok
+3551,W. Caballero,Chelsea,Goalkeeper,270,96,20310,112,Willy Caballero,Caballero,Chelsea,GKP,11,270,same team,2.7,ok
+288865,O. McBurnie,Swansea City,Forward,268,372,169432,,Oliver McBurnie,McBurnie,Swansea City,FWD,16,267,same team,4.0,ok
+386197,C. Roberts,Swansea City,Defender,268,598,192290,,Connor Roberts,Roberts,Swansea City,DEF,7,267,same team,4.0,ok
+8955,D. Ings,Liverpool,Forward,265,237,84939,258,Danny Ings,Ings,Liverpool,FWD,18,262,same team,4.0,ok
+8140,A. Lallana,Liverpool,Midfielder,256,228,39155,250,Adam Lallana,Lallana,Liverpool,MID,13,234,same team,4.0,ok
+56,D. Klaassen,Everton,Midfielder,250,158,109065,171,Davy Klaassen,Klaassen,Everton,MID,7,248,same team,4.0,ok
+224206,S. Byram,West Ham United,Defender,247,445,113564,404,Sam Byram,Byram,West Ham United,DEF,5,246,same team,4.0,ok
+261,N. Chadli,West Bromwich Albion,Midfielder,244,427,54908,,Nacer Chadli,Chadli,West Bromwich Albion,MID,15,213,same team,4.0,ok
+61979,K. Bartley,Swansea City,Defender,233,485,59940,,Kyle Bartley,Bartley,Swansea City,DEF,5,233,same team,4.0,ok
+8324,Y. Touré,Manchester City,Midfielder,230,249,14664,,Gnegneri Yaya Touré,Yaya Touré,Manchester City,MID,16,227,same team,5.0,ok
+7915,P. Evra,West Ham United,Defender,229,626,14075,,Patrice Evra,Evra,West Ham United,DEF,2,227,same team,4.0,ok
+3424,Fernando Llorente,Tottenham Hotspur,Forward,226,371,19760,371,Fernando Llorente,Llorente,Tottenham Hotspur,FWD,22,224,same team,3.83,ok
+3662,C. Bravo,Manchester City,Goalkeeper,225,241,33148,261,Claudio Bravo,Bravo,Manchester City,GKP,10,224,same team,3.67,ok
+270828,G. N'Koudou,Burnley,Forward,225,392,168566,497,Georges-Kévin Nkoudou,Nkoudou,Burnley,MID,11,223,same team,2.86,ok
+120,J. Locadia,Brighton & Hove Albion,Forward,224,604,106757,65,Jürgen Locadia,Locadia,Brighton & Hove Albion,FWD,16,221,same team,4.0,ok
+274488,J. Lolley,Huddersfield Town,Midfielder,220,176,168172,,Joe Lolley,Lolley,Huddersfield Town,MID,11,217,same team,4.0,ok
+442211,A. Sabiri,Huddersfield Town,Midfielder,219,522,246878,205,Abdelhamid Sabiri,Sabiri,Huddersfield Town,MID,10,217,same team,4.0,ok
+40765,Lucas Moura,Tottenham Hotspur,Forward,209,617,95715,370,Lucas Rodrigues Moura da Silva,Lucas Moura,Tottenham Hotspur,MID,11,206,same team,7.0,ok
+8624,J. McCarthy,Everton,Midfielder,207,150,50472,166,James McCarthy,McCarthy,Everton,MID,6,204,same team,4.0,ok
+8374,J. Morrison,West Bromwich Albion,Midfielder,206,428,18008,,James Morrison,Morrison,West Bromwich Albion,MID,13,205,same team,4.0,ok
+239411,T. Mings,AFC Bournemouth,Defender,201,36,149484,30,Tyrone Mings,Mings,AFC Bournemouth,DEF,3,201,same team,4.0,ok
+32968,N. Amrabat,Watford,Forward,200,412,44604,,Nordin Amrabat,Amrabat,Watford,MID,6,198,same team,4.0,ok
+13451,C. Goldson,Brighton & Hove Albion,Defender,199,61,85128,,Connor Goldson,Goldson,Brighton & Hove Albion,DEF,6,199,same team,4.0,ok
+413002,K. Mavropanos,Arsenal,Defender,195,595,233963,10,Konstantinos Mavropanos,Mavropanos,Arsenal,DEF,4,194,same team,4.0,ok
+447379,B. Baningime,Everton,Midfielder,192,563,195855,174,Beni Baningime,Baningime,Everton,MID,7,192,same team,4.0,ok
+402884,K. Walker-Peters,Tottenham Hotspur,Defender,188,498,158534,358,Kyle Walker-Peters,Walker-Peters,Tottenham Hotspur,DEF,13,188,same team,5.0,ok
+8761,M. Cranie,Huddersfield Town,Defender,180,168,18006,,Martin Cranie,Cranie,Huddersfield Town,DEF,2,179,same team,4.0,ok
+25415,J. Pied,Southampton,Defender,180,312,40833,,Jérémy Pied,Pied,Southampton,DEF,7,180,same team,4.0,ok
+93084,E. Jakupovic,Leicester City,Goalkeeper,180,473,11974,214,Eldin Jakupovic,Jakupovic,Leicester City,GKP,4,180,same team,4.0,ok
+8392,N. Clyne,Liverpool,Defender,174,217,57328,241,Nathaniel Clyne,Clyne,Liverpool,DEF,7,173,same team,4.0,ok
+279709,K. Palmer,Huddersfield Town,Midfielder,168,183,160190,,Kasey Palmer,Palmer,Chelsea,MID,4,168,any team,4.0,ok
+281135,M. Targett,Southampton,Defender,166,309,169359,479,Matt Targett,Targett,Southampton,DEF,2,166,same team,4.0,ok
+62091,J. Murphy,Brighton & Hove Albion,Midfielder,165,69,2513,,Jamie Murphy,Murphy,Brighton & Hove Albion,MID,6,166,same team,4.0,ok
+7864,F. Coquelin,Arsenal,Midfielder,165,20,56864,,Francis Coquelin,Coquelin,Arsenal,MID,7,164,same team,4.0,ok
+3343,I. Afellay,Stoke City,Midfielder,163,341,19568,,Ibrahim Afellay,Afellay,Stoke City,MID,6,162,same team,4.0,ok
+415748,J. Tymon,Stoke City,Defender,163,336,221267,,Josh Tymon,Tymon,Stoke City,DEF,0,162,same team,4.0,ok
+9622,L. Rosenior,Brighton & Hove Albion,Defender,162,60,15137,,Liam Rosenior,Rosenior,Brighton & Hove Albion,DEF,3,163,same team,4.0,ok
+302520,J. Sims,Southampton,Midfielder,159,323,153379,342,Joshua Sims,Sims,Southampton,MID,8,160,same team,4.0,ok
+77541,Àngel Rangel,Swansea City,Defender,158,353,42996,,Angel Rangel,Rangel,Swansea City,DEF,4,154,same team,3.73,ok
+406682,A. Lookman,Everton,Midfielder,154,157,219352,170,Ademola Lookman,Lookman,Everton,MID,10,153,same team,4.0,ok
+8272,Y. Kaboul,Watford,Defender,151,398,37742,375,Younes Kaboul,Kaboul,Watford,DEF,7,151,same team,4.0,ok
+397098,R. Nelson,Arsenal,Midfielder,148,489,200641,19,Reiss Nelson,Nelson,Arsenal,MID,5,144,same team,4.0,ok
+297733,S. McQueen,Southampton,Midfielder,143,314,153373,334,Sam McQueen,McQueen,Southampton,DEF,14,142,same team,4.0,ok
+92922,K. Mirallas,Everton,Midfielder,138,148,26901,469,Kevin Mirallas,Mirallas,Everton,MID,5,135,same team,4.0,ok
+337225,R. Aarons,Newcastle United,Midfielder,137,467,155513,,Rolando Aarons,Aarons,Newcastle United,MID,5,136,same team,4.0,ok
+8049,Lee Chung-Yong,Crystal Palace,Midfielder,130,128,75773,,Chung-yong Lee,Lee Chung-yong,Crystal Palace,MID,8,131,same team,5.0,ok
+8017,S. Ireland,Stoke City,Midfielder,129,590,20481,,Stephen Ireland,Ireland,Stoke City,MID,4,128,same team,4.0,ok
+8246,R. Barkley,Chelsea,Midfielder,129,149,88894,127,Ross Barkley,Barkley,Chelsea,MID,3,129,same team,4.0,ok
+86325,Ramiro Funes Mori,Everton,Defender,119,142,121221,,Ramiro Funes Mori,Funes Mori,Everton,DEF,3,119,same team,4.87,ok
+7928,M. Carrick,Manchester United,Midfielder,109,276,2404,,Michael Carrick,Carrick,Manchester United,MID,4,108,same team,4.0,ok
+20420,Z. Ibrahimović,Manchester United,Forward,103,523,9808,,Zlatan Ibrahimovic,Ibrahimovic,Manchester United,FWD,5,102,same team,4.0,ok
+3557,Jesús Gámez,Newcastle United,Defender,97,293,27462,,Jesús Gámez Duarte,Gámez,Newcastle United,DEF,9,97,same team,5.0,ok
+8583,D. Delaney,Crystal Palace,Defender,95,121,7906,,Damien Delaney,Delaney,Crystal Palace,DEF,1,95,same team,4.0,ok
+128214,A. Mitrović,Newcastle United,Forward,90,303,128389,480,Aleksandar Mitrovic,Mitrovic,Newcastle United,FWD,10,89,same team,4.0,ok
+8096,G. Myhill,West Bromwich Albion,Goalkeeper,90,420,12086,,Boaz Myhill,Myhill,West Bromwich Albion,GKP,1,90,same team,2.55,ok
+8992,P. Gazzaniga,Tottenham Hotspur,Goalkeeper,90,565,102884,536,Paulo Gazzaniga,Gazzaniga,Tottenham Hotspur,GKP,9,90,same team,3.86,ok
+77536,M. Vorm,Tottenham Hotspur,Goalkeeper,90,376,39215,352,Michel Vorm,Vorm,Tottenham Hotspur,GKP,3,90,same team,4.0,ok
+21333,Y. Benalouane,Leicester City,Defender,90,195,41321,218,Yohan Benalouane,Benalouane,Leicester City,DEF,1,90,same team,4.0,ok
+20606,S. Romero,Manchester United,Goalkeeper,90,261,42899,283,Sergio Romero,Romero,Manchester United,GKP,7,90,same team,3.79,ok
+25604,H. Saivet,Newcastle United,Midfielder,83,516,43521,,Henri Saivet,Saivet,Newcastle United,MID,8,83,same team,4.0,ok
+346159,J. Willock,Arsenal,Midfielder,82,634,200089,566,Joseph Willock,Willock,Arsenal,MID,3,81,same team,2.88,ok
+399564,L. Sørensen,Stoke City,Midfielder,76,637,226029,,Lasse Sorenson,Sorenson,Stoke City,MID,5,75,similar surname + minutes,0.88,ok
+399514,T. Campbell,Stoke City,Forward,75,628,200884,,Tyrese Campbell,Campbell,Stoke City,FWD,4,75,same team,4.0,ok
+20450,Bojan,Stoke City,Forward,72,344,40276,,Bojan Krkic Perez,Bojan,Stoke City,MID,2,71,same team,5.0,ok
+415747,J. Simpson,AFC Bournemouth,Defender,72,570,222434,32,Jack Simpson,Simpson,AFC Bournemouth,DEF,1,71,same team,4.0,ok
+8745,D. Whitehead,Huddersfield Town,Midfielder,67,178,5589,,Dean Whitehead,Whitehead,Huddersfield Town,MID,4,68,same team,4.0,ok
+259531,E. Hyndman,AFC Bournemouth,Midfielder,59,584,122342,41,Emerson Hyndman,Hyndman,AFC Bournemouth,MID,1,58,same team,4.0,ok
+404397,Brahim Diaz,Manchester City,Midfielder,50,493,216183,278,Brahim Diaz,Diaz,Manchester City,MID,5,50,same team,3.67,ok
+9179,N. Wells,Burnley,Forward,46,185,92383,86,Nahki Wells,Wells,Burnley,FWD,9,46,same team,4.0,ok
+14886,M. Bešić,Everton,Midfielder,44,152,87447,,Muhamed Besic,Besic,Everton,MID,2,46,same team,4.0,ok
+447205,P. Foden,Manchester City,Midfielder,44,492,209244,277,Phil Foden,Foden,Manchester City,MID,8,45,same team,4.0,ok
+8752,J. Walters,Burnley,Forward,37,89,12813,81,Jonathan Walters,Walters,Burnley,MID,3,36,same team,4.0,ok
+212651,C. Musonda,Chelsea,Midfielder,34,471,171162,,Charly Musonda,Musonda,Chelsea,MID,6,35,same team,3.8,ok
+15474,M. Hefele,Huddersfield Town,Defender,31,167,87856,,Michael Hefele,Hefele,Huddersfield Town,DEF,1,32,same team,4.0,ok
+8566,S. Baldock,Brighton & Hove Albion,Forward,30,73,28462,64,Sam Baldock,Baldock,Brighton & Hove Albion,FWD,2,30,same team,4.0,ok
+234408,J. Sinclair,Watford,Forward,28,499,133801,398,Jerome Sinclair,Sinclair,Watford,FWD,4,29,same team,4.0,ok
+450826,C. Hudson-Odoi,Chelsea,Midfielder,27,583,209046,131,Callum Hudson-Odoi,Hudson-Odoi,Chelsea,MID,2,27,same team,5.0,ok
+531655,L. Lumeka,Crystal Palace,Forward,25,544,221245,,Levi Lumeka,Lumeka,Crystal Palace,MID,1,25,same team,4.0,ok
+280157,J. Hugill,West Ham United,Forward,23,622,167522,420,Jordan Hugill,Hugill,West Ham United,FWD,3,22,same team,4.0,ok
+447254,R. Harper,West Bromwich Albion,Midfielder,20,507,232427,,Rekeem Harper,Harper,West Bromwich Albion,MID,1,20,same team,4.0,ok
+62344,J. Fulton,Swansea City,Midfielder,19,362,96305,,Jay Fulton,Fulton,Swansea City,MID,1,17,same team,4.0,ok
+448038,J. Ngoy,Stoke City,Forward,19,562,200455,,Julien Ngoy,Ngoy,Stoke City,FWD,1,19,same team,4.0,ok
+227756,J. Boga,Chelsea,Forward,18,509,135365,,Jeremie Boga,Boga,Chelsea,MID,1,17,same team,4.0,ok
+15301,U. Hünemeier,Brighton & Hove Albion,Defender,17,57,19071,,Uwe Hünemeier,Hünemeier,Brighton & Hove Albion,DEF,1,17,same team,4.0,ok
+346158,E. Nketiah,Arsenal,Forward,17,560,205533,552,Edward Nketiah,Nketiah,Arsenal,FWD,3,17,same team,2.81,ok
+13745,F. Ladapo,Crystal Palace,Forward,16,505,94926,,Olayinka Fredrick Oladotun Ladapo,Ladapo,Crystal Palace,FWD,1,16,same team,2.51,ok
+291528,D. Lukebakio,Watford,Midfielder,16,615,219002,,Dodi Lukebakio,Lukebakio,Watford,MID,1,15,same team,4.0,ok
+353241,L. Nmecha,Manchester City,Forward,14,627,174594,,Lukas Nmecha,Nmecha,Manchester City,FWD,2,14,same team,4.0,ok
+297258,S. Kaikai,Crystal Palace,Midfielder,13,515,138009,477,Sullay Kaikai,Kaikai,Crystal Palace,MID,1,13,same team,4.0,ok
+237268,M. Grujić,Liverpool,Midfielder,13,231,210237,,Marko Grujic,Grujic,Liverpool,MID,3,14,same team,4.0,ok
+423162,E. Ampadu,Chelsea,Defender,10,558,199598,130,Ethan Ampadu,Ampadu,Chelsea,MID,1,10,same team,4.0,ok
+134708,D. Origi,Liverpool,Forward,9,238,152760,543,Divock Origi,Origi,Liverpool,FWD,1,9,same team,3.8,ok
+447538,M. Obafemi,Southampton,Forward,8,603,220598,550,Michael Obafemi,Obafemi,Southampton,FWD,1,8,same team,4.0,ok
+25703,P. Souaré,Crystal Palace,Defender,8,122,79228,443,Pape Souaré,Souaré,Crystal Palace,DEF,1,8,same team,3.73,ok
+365707,J. Cullen,West Ham United,Midfielder,7,597,172567,,Josh Cullen,Cullen,West Ham United,MID,2,6,same team,4.0,ok
+448708,H. Barnes,Leicester City,Midfielder,7,642,201666,571,Harvey Barnes,Barnes,Leicester City,MID,3,8,same team,4.0,ok
+351808,B. Woodburn,Liverpool,Forward,6,233,182436,,Ben Woodburn,Woodburn,Liverpool,MID,1,6,same team,4.0,ok
+26109,M. Haïdara,Newcastle United,Defender,5,465,92170,,Massadio Haidara,Haidara,Newcastle United,DEF,1,3,same team,4.0,ok
+340476,R. Oxford,West Ham United,Defender,4,611,173792,407,Reece Oxford,Oxford,West Ham United,DEF,1,4,same team,4.0,ok
